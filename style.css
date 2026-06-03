@@ -101,6 +101,36 @@ footer {
 
 
 
+
+.projects {
+  padding: 60px;
+  text-align: center;
+}
+
+.project-card {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.project-card a {
+  display: inline-block;
+  margin-top: 10px;
+  color: white;
+  background: #007bff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
 /* Contact Section */
 .contact {
   padding: 60px 50px;
